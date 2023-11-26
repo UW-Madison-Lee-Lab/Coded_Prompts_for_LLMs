@@ -1,6 +1,6 @@
 <h1 align="center"> <p>Coded Prompts for Large Language Models</p></h1>
 <h4 align="center">
-    <p><a href="https://myhakureimu.github.io/" target="_blank">Ziqian Lin</a>, <a href="https://www.linkedin.com/in/yicong-chen-046993250/" target="_blank">Yicong Chen</a>, <a href="https://yzeng58.github.io/zyc_cv/" target="_blank">Yuchen Zeng</a>, <a href="https://kangwooklee.com/aboutme/" target="_blank">Kangwook Lee</a></p>
+    <p><a href="https://myhakureimu.github.io/" target="_blank">Ziqian Lin</a>, <a href="https://bryce-chen.github.io/" target="_blank">Yicong Chen</a>, <a href="https://yzeng58.github.io/zyc_cv/" target="_blank">Yuchen Zeng</a>, <a href="https://kangwooklee.com/aboutme/" target="_blank">Kangwook Lee</a></p>
     <p>University of Wisconsin-Madison</p>
     </h4>
 
@@ -26,3 +26,10 @@ step 4 - run experiment:
     python run_task1.py --integers 1 --samples 4 --apikey yourkey
 
 ### Task 2: Online Comment Toxicity Prediction (Regression)
+step 1 - install packages: 
+    
+    pip install openai
+    pip install datasets
+    pip install guidance
+
+step 2 - run the notebook `./task 2/task2.ipynb`.
