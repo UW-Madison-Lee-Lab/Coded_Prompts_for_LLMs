@@ -19,7 +19,7 @@ step 2 - download the code for this repo and unzip it:
 
 step 3 - cd to the folder: 
 
-    cd task\_1
+    cd task\ 1
 
 step 4 - run experiment: 
 
