@@ -12,8 +12,11 @@ While Large Language Models (LLMs) have demonstrated remarkable capabilities acr
 
 ### Task 1: Finding the Maximum Prime Number in a Range (Binary Classification)
 step 1 - install the openai package: pip install openai
+
 step 2 - download the code for this repo and unzip it: 
+
 step 3 - cd to the folder: cd 
+
 step 4 - run experiment: python: 
 
 
