@@ -17,15 +17,12 @@ step 1 - install the openai package:
 
 step 2 - download the code for this repo and unzip it: 
 
-    
-
 step 3 - cd to the folder: 
 
-    cd 
+    cd task1
 
 step 4 - run experiment: 
 
-    python 
-
+    python run_task1.py --integers 1 --samples 4 --apikey yourkey
 
 ### Task 2: Online Comment Toxicity Prediction (Regression)
