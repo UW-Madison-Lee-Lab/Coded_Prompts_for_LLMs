@@ -10,7 +10,7 @@ parser = argparse.ArgumentParser()
 
 parser.add_argument('--integers', type=int, default=1, help='number of integers')
 parser.add_argument('--samples', type=int, default=4, help='number of examples')
-parser.add_argument('--apikey', type=str, default='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', help='openai api key')
+parser.add_argument('--apikey', type=str, default='use your openai key', help='openai api key')
 
 parser.add_argument('--log_wandb', type=int, default=1,choices=[0,1])
 
